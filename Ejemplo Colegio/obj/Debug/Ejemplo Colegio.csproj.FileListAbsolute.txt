@@ -1,0 +1,10 @@
+C:\Users\Jonas\source\repos\Ejemplo - Semana 8 03L\Ejemplo Colegio\bin\Debug\Ejemplo Colegio.exe.config
+C:\Users\Jonas\source\repos\Ejemplo - Semana 8 03L\Ejemplo Colegio\bin\Debug\Ejemplo Colegio.exe
+C:\Users\Jonas\source\repos\Ejemplo - Semana 8 03L\Ejemplo Colegio\bin\Debug\Ejemplo Colegio.pdb
+C:\Users\Jonas\source\repos\Ejemplo - Semana 8 03L\Ejemplo Colegio\obj\Debug\Ejemplo Colegio.csprojAssemblyReference.cache
+C:\Users\Jonas\source\repos\Ejemplo - Semana 8 03L\Ejemplo Colegio\obj\Debug\Ejemplo_Colegio.Form1.resources
+C:\Users\Jonas\source\repos\Ejemplo - Semana 8 03L\Ejemplo Colegio\obj\Debug\Ejemplo_Colegio.Properties.Resources.resources
+C:\Users\Jonas\source\repos\Ejemplo - Semana 8 03L\Ejemplo Colegio\obj\Debug\Ejemplo Colegio.csproj.GenerateResource.cache
+C:\Users\Jonas\source\repos\Ejemplo - Semana 8 03L\Ejemplo Colegio\obj\Debug\Ejemplo Colegio.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\Ejemplo - Semana 8 03L\Ejemplo Colegio\obj\Debug\Ejemplo Colegio.exe
+C:\Users\Jonas\source\repos\Ejemplo - Semana 8 03L\Ejemplo Colegio\obj\Debug\Ejemplo Colegio.pdb
